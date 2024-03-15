@@ -94,3 +94,4 @@ iOSInjectionProject/
 # Archivos de configuración del sistema
 .DS_Store
 DS_Store
+*.xcplayground
